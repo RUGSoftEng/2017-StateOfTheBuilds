@@ -10,3 +10,6 @@
 
 ## Medical ID
 - [Medical ID repository](https://github.com/RUGSoftEng/2017-Medical-ID) - [![Build Status](https://travis-ci.org/RUGSoftEng/2017-Medical-ID.svg?branch=master)](https://travis-ci.org/RUGSoftEng/2017-Medical-ID)
+
+## The Distraction Shield
+- [Distraction Shield](https://github.com/RUGSoftEng/2017-The-Distraction-Shield) - [![Build Status](https://travis-ci.org/RUGSoftEng/2017-The-Distraction-Shield.svg?branch=master)](https://travis-ci.org/RUGSoftEng/2017-The-Distraction-Shield)
